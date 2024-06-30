@@ -29,7 +29,7 @@ Créer un fichier pwd.json dans le dossier credentials avec le contenu suivant :
 ```
 ## Utilisation
 
-Accés page Index : `view-source:http://http://localhost/Garrigues-DAL/public/index.php` <br>
+Accés page Index : `view-source:http://localhost/Garrigues-DAL/public/index.php` <br>
 
 ## Base de données
 
